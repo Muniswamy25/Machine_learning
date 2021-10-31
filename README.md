@@ -1,1 +1,2 @@
-# Machine_learning
+# Machine learning - logistic regression 
+Iris Flower classification
